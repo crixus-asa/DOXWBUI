@@ -1,0 +1,137 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 10,
+			"iconurl": "https://i.imgur.com/uI8GFbn.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"0.20,0.55,1,1\">Welcome!</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/776/224/dox2-logo.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Cerberus Ascended - DOX</>",
+						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve entered the Cerberus Ascended DOX 2 cluster, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX Servers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">CA - Valgrind - DOX2 (Ragnarok)</>\r\n\r\nAncient cataclysms, deep secrets, and brutal wilds await on this sprawling, mythic landscape.\r\n\r\n<RichColor Color=\"1,0,1,1\">CA - Ravenous Hollow - DOX2 (Insaluna)</>\r\n\r\nDescend into darkness—where mutated nightmares and rare treasures lurk beneath the hollow moon.\r\n\r\n==============================================\r\n\r\nThis panel will server as your general server guide for both the features of DOX and general cluster features.\r\n\r\nJoin our Discord for help, other guides, and more!"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Players Online</>",
+						"text": "{playerlist}"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
+						"text": "<TextStyle.Orange>Guide Tabs</>\r\nThis Guide Panel is broken up into multiple tabs, with the color of the tab corresponding to either a certain mod or feature-set:\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">DOX 2 Info</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Nanoh's Ascended Equipment</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Cluster Features/Other Info</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Starting DOX2</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1096/580/dodorextitan.jpg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Getting Started</>",
+						"text": "<TextStyle.Orange>Welcome to Dino Overhaul X 2!</>\r\n\r\nThis isn’t regular Ark. DOX2 will test your skill, patience, and resolve. You’ll lose tames and gear, face setbacks, and sometimes get wiped by surprises. That’s normal—keep going and you’ll grow stronger and smarter!\r\n\r\n<TextStyle.Green>First Things to Do:</>\r\n\r\nDon’t rush to tame. Secure a safe base first—caves, cliffs, or hard-to-reach places are best.\r\n\r\n<RichColor Color=\"1,0,0,1\">Avoid power leveling</>! Leveling up too quickly can cause harder enemies to appear.\r\n\r\nHunt small creatures for early Hunter XP and key resources.\r\n\r\nKill alpha creatures you can handle for genetic strings and artifact pieces.\r\n\r\nMake your first goal the DOX Crafting Station and a few Hunter XP Storage Orbs.\r\n\r\nRemember your five sources of power: your mount, paragon level, pygmy, enhanced armor, and upgrades/crystals.\r\n\r\n<TextStyle.Green>Quick Reference: “Power Sources”</>\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Mount:</> Main combat partner—choose and breed wisely.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Paragon Level:</> Mount’s DOX experience; raises stats.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Pygmy:</> Shoulder pet that boosts you and your mount.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Enhanced Armor:</> Stat boosts, boss protection, and environment resistances.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Upgrades & Potions:</> Permanent crystals and temporary buffs for extra edge."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Taming & Traits</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1234/590/corruptionnecrosisvein.jpg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Taming DOX Creatures</>",
+						"text": "DOX2 taming is <RichColor Color=\"1,0,1,1\">hands-on!</> You can’t tranq-and-feed like vanilla Ark.\r\n\r\nHand-feed non-aggressive dinos for the best results. Use their favorite food for best taming effectiveness.\r\n\r\nDrop food nearby (within 20m) for aggressive or hard-to-approach creatures. This costs more Hunter XP but is safer.\r\n\r\nSome special creatures (Pyromane, Manticores, Dragons, etc.) have unique taming systems—check for special requirements.\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">“Buffed”</> wilds (like Juiced, Extra XP, Corrupted) drop better loot and resources—hunt them for faster progress!\r\n\r\nTaming Quick Facts\r\nHand-feed: Safer for non-aggressives, higher effectiveness, uses less Hunter XP.\r\n\r\nDrop food: Needed for aggressives, works faster, but needs more Hunter XP.\r\n\r\nSpecial dino taming: Some mods and bosses require their own methods.\r\n\r\nHunter XP: Gained by killing creatures (especially alphas), used for taming and crafting.\r\n\r\nAlpha creatures: Drop genetic strings/artifacts—vital for progression."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Traits Explained</>",
+						"text": "Traits (What They Are & Why They Matter)\r\nTraits make your tames stronger, tougher, and faster. They’re essential to survive.\r\n\r\nView traits: In your dino’s inventory, press “Show Buffs” to see all current traits, paragon level, and bonuses.\r\n\r\nTraits come from taming, raising, and fighting.\r\n\r\nStack positive traits for huge boosts—each trait increases damage, reduction, or speed.\r\n\r\nTrait Data & Breakdown\r\nWild Traits (W): Up to 4 per dino, randomly assigned at tame/adult.\r\n\r\nNatural Traits (N): Up to 3, earned by taking damage from strong enemies (equal/higher weight class).\r\n\r\nUnique Wild (UW) & Unique Natural (U): Rare—1 each max, offer special boosts.\r\n\r\nTrait Examples:\r\n\r\nBrawler (W): +15% damage, +2.5% damage reduction\r\n\r\nDefender (N): +10% damage reduction\r\n\r\nSprinter (W): +15% movement speed"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Paragon & Progression</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1108/521/titandesmo.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Paragon Levels</>",
+						"text": "<TextStyle.Orange>Paragon Levels (Why Level Up?)</>\r\nParagon levels are your mount’s combat experience in DOX2. Each level makes your creature permanently stronger.\r\n\r\nEarn paragon by defeating wild creatures. Higher-level and alpha enemies grant more.\r\n\r\nEach paragon level (up to 10, “Warlord”) gives a permanent <RichColor Color=\"0.26,0.96,0.31,1\">+1.5</>–<RichColor Color=\"0.26,0.96,0.31,1\">3%</> damage AND damage reduction.\r\n\r\nThe “Warlord” title (level 10) adds another <RichColor Color=\"0.26,0.96,0.31,1\">5%</> damage and enables champion spawns on megas.\r\n\r\n<TextStyle.Orange>Paragon Quick Facts</>\r\n\r\nLevels: 1–10 (“Warlord” max)\r\n\r\nEach level: <RichColor Color=\"0.26,0.96,0.31,1\">+1.5</>–<RichColor Color=\"0.26,0.96,0.31,1\">3%</> damage & damage reduction\r\n\r\nWarlord bonus: <RichColor Color=\"0.26,0.96,0.31,1\">+5%</> damage, champion spawn chance"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Pygmys (Mini critters, big power!)</>",
+						"text": "Pygmys are tiny pets that ride your shoulder and give <RichColor Color=\"1,0.2,0.72,1\">MASSIVE</> boosts.\r\n\r\nTheir power depends on their traits, just like other tames.\r\n\r\n<RichColor Color=\"1,0,0,1\">WARNING</>: Pygmys are fragile—earn traits via paragon orbs/elixirs instead of combat when possible.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Important Pygmy Details</>\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Buffs</>: Damage, reduction, speed (varies by trait)\r\n\r\nBoosts you and your mount\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Feed</>: Pygmy kibble, paragon orbs, elixirs for safe growth"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Early Progression Tips</>",
+						"text": "Kill smalls and alphas for early XP and loot\r\n\r\nTame alpha dodos for pygmy kibble (important for pygmy progress)\r\n\r\nPrioritize wilds with visible buffs for best rewards"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Armor & Upgrades</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1012/603/dox2titanqueen.jpg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Enhanced Armor</>",
+						"text": "Enhanced Armor (The Shield Between You & Doom)\r\nEnhanced armor sets are your main protection in the late game—they boost stats, shield you from bosses, and keep you alive in harsh environments.\r\n\r\nDrops from rare creatures: seekers, doppelgängers, bounties, golden dodos, primes, megas.\r\n\r\nMix & match: Any 2, 3, or 5 pieces of a set give you partial or full bonuses.\r\n\r\nFull set gives “Enhanced Armor Protection,” preventing bosses from hitting you off your mount.\r\n\r\nDon’t fight bosses until you have a full set!\r\n\r\nTemporary “impenetrable” potions can provide emergency protection, but they’re no substitute for a full set."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Armor Bonuses</>",
+						"text": "Armor Types: Chitin, Flak, Riot, Hazard, Tek, etc.\r\n\r\nRarities: Common, Uncommon, Rare, Legendary (better stats at higher rarity)\r\n\r\nSet Bonuses:\r\n\r\n+2 pieces = minor bonus\r\n\r\n+3 = moderate bonus\r\n\r\n+5 (full set) = Enhanced Armor Protection buff\r\n\r\nBuffs: Stat increases for you and your mount, full sets give immunity to radiation/gas/poison\r\n\r\nMixing sets: You can mix types, but must have +2/+3/+5 of one set for bonuses."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Permanent Upgrades</>",
+						"text": "Permanent Upgrades\r\nCraft crystals for permanent passive buffs (equip to hotbar)\r\n\r\nIngredients come from rare wilds, alphas, and artifacts\r\n\r\nPotions: Short-term effects for emergency fights\r\n\r\nCollect all crystals for the best long-term power-up"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">FAQ</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1233/627/titan-underlord.jpg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Frequently Asked Questions</>",
+						"text": "\"Why can't I tame this dino?\"\r\n-Not enough hunter XP, or the wrong food. \"Purple\" glow means it didn't like your offering. Check your buffs to see if your taming buff is red or green!\r\n\r\n\"Why am I dying so much?\"\r\n-DOX2 is tough by design! Stack up traits, armor, pygmys, and upgrades.\r\n\r\n\"How do I see my tame's stats and buffs?\"\r\n-Open your tame's inventory and use \"Show Buffs.\"\r\n\r\n\"How do I progress early?\"\r\n-Build safe, kill small creatures for XP, don't rush tames, always prepare for setbacks, and focus on upgrading your power sources!"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">Discord</>",
+				"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">Video Guide Playlist</>",
+				"url": "https://discord.com/channels/@me/1349707419474858077/1389312452348612720"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame\" Video</>",
+				"url": "https://www.youtube.com/watch?v=iyAHjiosM8o&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=3&pp=iAQB"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Get Traits\" Video</>",
+				"url": "https://www.youtube.com/watch?v=F6deI7-gjiw&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=2&pp=iAQB"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame Legacy Alphas\" Video</>",
+				"url": "https://www.youtube.com/watch?v=NoA232LqoI0&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=1&pp=iAQB"
+			}
+		],
+		"version": 2
+	}
+}
