@@ -94,7 +94,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Permanent Upgrades</>",
-						"text": "Crystals\r\n\r\nCraft crystals for permanent passive buffs! (Crystals must be slotted in your hotbar in order to apply their buffs)\r\n\r\nIngredients come from rare wilds, alphas, and artifacts.\r\n\r\nCollect all crystals for the best long-term power-up!"
+						"text": "Crystals\r\n\r\nCraft special Crystals for permanent passive buffs (put crystals on your hotbar to receive buffs)\r\nCrystals are crafted from genetic materials, artifact fragments, corruption crystal shards, and warlord shards. \r\n\r\nIngredients come from empowered and corrupted creatures, Megas, Mega champions, and global buffed creatures (extra xp, extra loot, juiced, infestation festers)\r\nCollect all crystals for the best long-term power-up!"
 					}
 				]
 			},
